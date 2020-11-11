@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.container{
+	width: 960px;
+	height: 710px;
+	background-color: #F1FFF0;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+
+#containerID{
+	width: 98%;
+	height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	padding-top: 25px;
+	background-color: #F1FFF0;
+}
+
+#title{
+	width: 690px;
+	height: 70px;
+	margin-left: 40px;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	padding-top: 15px;
+	background-color: #FDF2DD;
+}
+
+#titletext{
+	float: left;
+	font-family: Helvetica; font-size: 50px; font-weight: bold; line-height: 1.2em;
+	margin-left: 25px;
+	text-align: left; color: #000;
+}
+
+#LeftColumn {
+	width: 400px;
+	height: auto;
+	margin-top: 15px;
+	margin-left: 40px;
+	margin-right: 25px;
+	float: left;
+	padding: 1%;
+	background-color: #F1FFF0;
+}
+
+a {
+	font-family: Helvetica; font-size: 24px; line-height: 1.2em;
+	color: #000;
+	text-decoration: none;
+	/*padding-top: 20px;
+	padding-bottom: 40px;*/
+}
+
+a:hover {
+	color: #FFF;
+}
+
+#RightColumn {
+	width: 400px;
+	height: 588px;
+	margin-top: -530px;
+	margin-left: 450px;
+	float: left;
+	background-color: #F1FFF0;
+}
+
+#boxone {
+	width: 350px;
+	height: 60px;
+	margin-bottom: 20px;
+	padding-top: 25px;
+	padding-left: 25px;
+	background-color: #FDEDCE;
+}
+
+#boxtwo {
+	width: 350px;
+	height: 60px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-top: 25px;
+	padding-left: 25px;
+	background-color: #FFE3AF;
+}
+
+#boxthree {
+	width: 350px;
+	height: 180px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-top: 25px;
+	padding-left: 25px;
+	background-color: #FDD57A;
+}
+
+#boxthree1 {
+	padding-bottom: 29px;
+} /* I was not too sure how to space out the different links within the same box*/
+
+#boxthree2 {
+	padding-bottom: 29px;
+}
+
+#boxfour {
+	width: 350px;
+	height: 60px;
+	padding-top: 25px;
+	padding-left: 25px;
+	margin-top: 20px;
+	background-color: #FFCC9A;
+}
+
+#boxfive {
+	width: 350px;
+	height: 120px;
+	padding-top: 25px;
+	padding-left: 25px;
+	margin-bottom: 20px;
+	background-color: #FCB793;
+}
+
+#boxfive1 {
+	padding-bottom: 22px;
+}
+
+#boxsix {
+	width: 350px;
+	height: 120px;
+	padding-top: 25px;
+	padding-left: 25px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	background-color: #FFAB9B;
+}
+
+#boxsix1 {
+	padding-bottom: 22px;
+}

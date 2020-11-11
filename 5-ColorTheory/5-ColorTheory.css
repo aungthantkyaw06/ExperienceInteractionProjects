@@ -1,0 +1,142 @@
+body {
+	margin: 0; 
+}	
+
+.container {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-left: 20; 
+	margin-top: 200;
+	margin-right: 20;
+	margin-bottom: 20;
+	width: 768px; 
+	height: 1024px;  
+	background-color: #CCCCCC;
+	padding-left: 100px;
+	padding-right:  0px;
+	padding-top:  100px;
+	padding-bottom:  0px; 
+}
+
+#box{
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-bottom: 200px;
+	width: 200px; 
+	height: 650px;  
+	background-color: #EBEBEB;
+	float:left; 
+
+}
+
+#inner_lime{
+	margin-left: 10px;
+	margin-top: 100px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #DBEB88;
+	float:left; 
+
+}
+
+#inner_lime2{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #DBEB88;
+	float:left; 
+
+}
+
+#inner_orange{
+	margin-left: 10px;
+	margin-top: 90px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #EBC088;
+	float:left; 
+
+}
+
+#inner_orange2{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #EBC088;
+	float:left; 
+
+}
+
+#inner_pink{
+	margin-left: 10px;
+	margin-top: 45px;
+	margin-right: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #EB88A9;
+	float:left; 
+
+}
+
+#inner_purple{
+	margin-left: 10px;
+	margin-top: 45px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #CA88EB;
+	float:left; 
+
+}
+
+#inner_purple2{
+	margin-left: 10px;
+	margin-top: 45px;
+	margin-right: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #C788EB;
+	float:left; 
+
+}
+
+#inner_blue{
+	margin-left: 10px;
+	margin-top: 45px;
+	margin-right: 10px;
+	width: 180px; 
+	height: 180px;  
+	background-color: #88D1EB;
+	float:left; 
+
+}
+a.button {
+    /*-webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;*/
+
+  	background-color: #FFFFFF; 
+  	border: #707070;
+  	color: black;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 20px;
+  	position: absolute;
+  	left: 100px;
+ /*   text-decoration: none;
+	color: initial;
+	
+	position: absolute;
+	left: 100px;*/
+}
+

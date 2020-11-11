@@ -1,0 +1,48 @@
+body {
+	margin: 0; /* default space outside the object body*/
+	/*width: 1920px; //set default width*/  /*commented out*/
+	/*height: 100%;  //set default to the height of window*/ /*commented out*/
+}
+img {
+		
+}
+
+.container {
+	margin-left: 20; 
+	margin-top: 20;
+	margin-right: 20;
+	margin-bottom: 20;
+	width: 768px; 
+	height: 1024px;  
+	background-color: #E37968;
+	padding-left: 0px;
+	padding-right:  0px;
+	padding-top:  0px;
+	padding-bottom:  0px; 
+}
+
+#outer{
+	margin-left: 100px; /* pushes away from last element in the HTML. using single value will apply to all four sides*/
+	margin-top: 200px;
+	margin-right: 100px;
+	margin-bottom: 200px;
+	width: 200px; 
+	height: 650px;  
+	background-color: #FAEBC0;
+	float:left; /*The float property specifies how an element should float.*/
+
+}
+
+#inner{
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 150px; 
+	height: 200px;  
+	background-color: #E0D4CA;
+	float:left; 
+
+}
+
+
